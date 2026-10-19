@@ -1,0 +1,4 @@
+# Create a ship with primary ammo and without secondary
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE  # Unable to fire next torpedo
